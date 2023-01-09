@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('impressum', function () {
     return view('impressum');
 });
+
+Route::get('datenschutz', function () {
+    return view('datenschutz');
+});

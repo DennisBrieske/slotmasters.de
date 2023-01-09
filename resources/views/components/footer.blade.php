@@ -5,9 +5,9 @@
             <div class="col-auto">
                 <a class="text-white small" href="/impressum">Impressum</a>
                 <span class="text-white mx-1">&middot;</span>
-                <a class="text-white small" href="index.php/disclaimer">Datenschutz</a>
+                <a class="text-white small" href="/datenschutz">Datenschutz</a>
                 <span class="text-white mx-1">&middot;</span>
-                <a class="text-white small" href="#!">Kontakt</a>
+                <a class="text-white small" href="#kontakt">Kontakt</a>
             </div>
         </div>
     </div>
